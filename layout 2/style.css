@@ -36,8 +36,9 @@ h2{
     background-color: silver;
 }
 nav ul{
-  list-style-type: none;
-    align-content: center;
+    list-style-type: none;
+    align-items: center;
+    justify-content:center;
     background-color: silver;
     display: grid;
     grid-template: auto/repeat(4,1fr);

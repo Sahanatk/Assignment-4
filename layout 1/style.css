@@ -20,7 +20,8 @@ footer{grid-row:4/5;grid-column: 1/4; background-color: silver;text-align: cente
    
 nav ul  {
     list-style-type: none;
-    align-content: center;
+    align-items: center;
+    justify-content:center;
     background-color: silver;
     display: grid;
     grid-template: auto/repeat(4,1fr);
